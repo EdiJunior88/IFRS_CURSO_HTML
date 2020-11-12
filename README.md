@@ -16,3 +16,7 @@ Aprenda a criar páginas web do zero. Se você quer aprender tudo, desde o iníc
 de sites. Também criaremos as primeiras páginas. Vamos formatá-las, inserir links, listas, imagens, arquivos de áudio e vídeo. Conheça alguns comandos avançados e dicas 
 especiais de compatibilidade e acessibilidade.
 </p>
+
+<hr>
+
+<h4><b>Status do Curso:</b> :speech_balloon: Estudando</h4>
