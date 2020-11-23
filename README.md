@@ -17,4 +17,5 @@ especiais de compatibilidade e acessibilidade.
 
 <hr>
 
-<h4><b>Status do Curso:</b> :speech_balloon: Estudando</h4>
+<h4><b>Aulas:</b> :vhs: 23 Video-aulas + Avaliações</h4>
+<h4><b>Status do Curso:</b> :white_check_mark: Completado</h4>
