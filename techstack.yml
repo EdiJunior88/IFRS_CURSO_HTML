@@ -1,0 +1,20 @@
+repo_name: EdiJunior88/IFRS_CURSO_HTML
+report_id: 387bff43e6846f340b0d03208a774152
+version: 0.1
+repo_type: Public
+timestamp: '2024-05-02T15:27:54+00:00'
+requested_by: EdiJunior88
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/EdiJunior88/IFRS_CURSO_HTML
+  detection_source: Repo Metadata
